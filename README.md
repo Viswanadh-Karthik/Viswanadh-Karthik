@@ -12,7 +12,7 @@
 ### 🚀 About Me
 
 - 🏢 Java Backend Developer at **Wipro** — building real-world, client-facing REST APIs
-- 💡 Currently working on: **Campaign Registration Management System (CRMS)** — Spring Boot + React + MySQL
+- 💡 Currently working on: **Banking Client Project** — Spring Boot + Dapr + Temporal + Kafka + Yugabyte-DB + GCP + AWS
 - 🎯 Goal: Transition to a **product-based company** and build impactful, scalable systems
 - 🌱 Actively sharpening: **DSA**, **System Design**, and **Microservices Architecture**
 - 💬 Ask me about: **Java, Spring Boot, REST APIs, JWT Auth, JPA/Hibernate, MySQL**
